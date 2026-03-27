@@ -1,5 +1,5 @@
 name = "neon-link-extractor"
-main = "scraper.js"
+main = "main.js"
 compatibility_date = "2025-03-27"
 
 [vars]
