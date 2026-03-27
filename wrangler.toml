@@ -1,0 +1,10 @@
+name = "neon-link-extractor"
+main = "scraper.js"
+compatibility_date = "2025-03-27"
+
+[vars]
+TARGET_DOMAIN = "as-cdn21.top"
+REFERER_URL = "https://toonstream.dad/"
+
+[observability]
+enabled = true
